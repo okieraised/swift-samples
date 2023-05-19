@@ -13,6 +13,7 @@
 		E5B05E5F2A17196900A9A28E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5B05E5E2A17196900A9A28E /* Preview Assets.xcassets */; };
 		E5B05E672A171A5D00A9A28E /* GradientView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B05E662A171A5D00A9A28E /* GradientView1.swift */; };
 		E5B05E692A171BE100A9A28E /* GradientView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B05E682A171BE100A9A28E /* GradientView2.swift */; };
+		E5B05E6B2A171D5500A9A28E /* GradientView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B05E6A2A171D5500A9A28E /* GradientView3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		E5B05E5E2A17196900A9A28E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E5B05E662A171A5D00A9A28E /* GradientView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView1.swift; sourceTree = "<group>"; };
 		E5B05E682A171BE100A9A28E /* GradientView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView2.swift; sourceTree = "<group>"; };
+		E5B05E6A2A171D5500A9A28E /* GradientView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				E5B05E662A171A5D00A9A28E /* GradientView1.swift */,
 				E5B05E682A171BE100A9A28E /* GradientView2.swift */,
+				E5B05E6A2A171D5500A9A28E /* GradientView3.swift */,
 			);
 			path = Animation;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5B05E6B2A171D5500A9A28E /* GradientView3.swift in Sources */,
 				E5B05E672A171A5D00A9A28E /* GradientView1.swift in Sources */,
 				E5B05E5A2A17196800A9A28E /* ContentView.swift in Sources */,
 				E5B05E692A171BE100A9A28E /* GradientView2.swift in Sources */,
